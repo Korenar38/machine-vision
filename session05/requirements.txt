@@ -1,0 +1,6 @@
+torch>=2.5
+torchvision>=0.20
+matplotlib>=3.8
+pillow>=10.0
+# Только для бонусного шага 07 (CLIP), ставится отдельно — см. Read.md:
+# clip @ git+https://github.com/ultralytics/CLIP.git
